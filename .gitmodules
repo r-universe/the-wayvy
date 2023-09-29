@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "DamiaNN"]
 	path = DamiaNN
-	url = https://github.com/cran/DamiaNN
+	url = https://github.com/the-wayvy/damiann
